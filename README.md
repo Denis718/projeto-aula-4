@@ -5,3 +5,4 @@ Mais um edit
 Outro edit!
 E mais outro edit!
 Outro edit git pull
+Novo Edit
